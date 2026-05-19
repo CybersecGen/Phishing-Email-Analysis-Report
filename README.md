@@ -6,7 +6,7 @@ Simulated a Phishing Attack on a Global Payment providers SOC to focus on Phishi
 
 ---
 
-### 1. Incident Overview
+### 1. Incident
 
 A suspected phishing email was reported by an end user within the organisation. The message impersonated a legitimate service provider and attempted to redirect the user to a credential harvesting page.
 
