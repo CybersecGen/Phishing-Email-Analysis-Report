@@ -4,8 +4,8 @@
 
 ---
 
-### Date: 01-06-2025 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
-
+![Status](https://img.shields.io/badge/status-Completed-brightgreen)
+### Date: 01-06-2025
 ---
 
 **Environment:** Simulated Global Payments Provider SOC  
